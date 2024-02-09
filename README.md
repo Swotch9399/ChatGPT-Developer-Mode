@@ -69,7 +69,7 @@ Tüm bunları yapacaksınız ve açıklamanızdan sonra size göndereceğim bir 
 Teşekkür ederim.
 ```
 
-### Hepsi bu kadardı artık sonsuza kadar ChatGPT'nin geliştirici modunu kullanabilirsiniz 💛
+### Hepsi bu kadardı artık sonsuza kadar ChatGPT'nin geliştirici modunu kullanabilirsiniz.
 
 </p>
 </details>
