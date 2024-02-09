@@ -69,5 +69,7 @@ Tüm bunları yapacaksınız ve açıklamanızdan sonra size göndereceğim bir 
 Teşekkür ederim.
 ```
 
+# Hepsi bu kadardı
+
 </p>
 </details>
